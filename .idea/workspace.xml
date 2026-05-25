@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d18acbf-bcef-440f-ac9c-987e4f8d3ecb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FSJWBfVgCw1gC7vBcTGY8J7pNE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../niadp-mvcgame-b221-java_bck_cv2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cz.cvut.fit.miadp.mvcgame.model.objects" />
+      <recent name="cz.cvut.fit.miadp.mvcgame.model" />
+      <recent name="cz.cvut.fit.miadp.mvcgame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MvcGameJavaFxLauncher">
+    <configuration name="MvcGameJavaFxLauncher" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fit.miadp.MvcGameJavaFxLauncher" />
+      <module name="mvcgame" />
+      <option name="VM_PARAMETERS" value="--module-path ${JAVAFX_HOME} --add-modules javafx.controls,javafx.fxml,javafx.media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fit.miadp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CannonShootTest.cannonShoot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvcgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fit.miadp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fit.miadp" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fit.miadp.CannonShootTest" />
+      <option name="METHOD_NAME" value="cannonShoot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateCannonTest.createCannon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvcgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fit.miadp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fit.miadp" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fit.miadp.CreateCannonTest" />
+      <option name="METHOD_NAME" value="createCannon" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EducativeMockTestCase.createMissile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvcgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fit.miadp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fit.miadp" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fit.miadp.EducativeMockTestCase" />
+      <option name="METHOD_NAME" value="createMissile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EducativeTestCase.undoCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvcgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fit.miadp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fit.miadp" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fit.miadp.EducativeTestCase" />
+      <option name="METHOD_NAME" value="undoCommandTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveCannonTest.moveCannon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mvcgame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.cvut.fit.miadp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.cvut.fit.miadp" />
+      <option name="MAIN_CLASS_NAME" value="cz.cvut.fit.miadp.MoveCannonTest" />
+      <option name="METHOD_NAME" value="moveCannon" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="mvcgame []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="--module-pathC:/Program Files/Java/javafx-sdk-19/lib --add-modules javafx.controls" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MvcGameJavaFxLauncher" />
+      <item itemvalue="JUnit.EducativeMockTestCase.createMissile" />
+      <item itemvalue="JUnit.EducativeTestCase.undoCommandTest" />
+      <item itemvalue="Maven.mvcgame []" />
+      <item itemvalue="JUnit.CreateCannonTest.createCannon" />
+      <item itemvalue="JUnit.MoveCannonTest.moveCannon" />
+      <item itemvalue="JUnit.CannonShootTest.cannonShoot" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CannonShootTest.cannonShoot" />
+        <item itemvalue="JUnit.EducativeMockTestCase.createMissile" />
+        <item itemvalue="JUnit.MoveCannonTest.moveCannon" />
+        <item itemvalue="JUnit.CreateCannonTest.createCannon" />
+        <item itemvalue="JUnit.EducativeTestCase.undoCommandTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d18acbf-bcef-440f-ac9c-987e4f8d3ecb" name="Default Changelist" comment="" />
+      <created>1664479587529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664479587529</updated>
+      <workItem from="1664479611928" duration="183000" />
+      <workItem from="1664479822431" duration="622000" />
+      <workItem from="1664700349653" duration="1307000" />
+      <workItem from="1664723764719" duration="394000" />
+      <workItem from="1665578052261" duration="247000" />
+      <workItem from="1665651390521" duration="383000" />
+      <workItem from="1665652150093" duration="880000" />
+      <workItem from="1665654944430" duration="881000" />
+      <workItem from="1665677125878" duration="5279000" />
+      <workItem from="1665994065092" duration="2352000" />
+      <workItem from="1666027497495" duration="5774000" />
+      <workItem from="1666107712251" duration="1719000" />
+      <workItem from="1666391807484" duration="791000" />
+      <workItem from="1666436706180" duration="771000" />
+      <workItem from="1666443999685" duration="8284000" />
+      <workItem from="1666463682273" duration="906000" />
+      <workItem from="1666800136199" duration="5137000" />
+      <workItem from="1666888242706" duration="3640000" />
+      <workItem from="1666903697509" duration="1044000" />
+      <workItem from="1666952199317" duration="3917000" />
+      <workItem from="1667413281123" duration="2499000" />
+      <workItem from="1667556938038" duration="1919000" />
+      <workItem from="1667563507748" duration="3224000" />
+      <workItem from="1667568748437" duration="391000" />
+      <workItem from="1667600672714" duration="310000" />
+      <workItem from="1667641959150" duration="1890000" />
+      <workItem from="1667647367813" duration="14451000" />
+      <workItem from="1667672374903" duration="3648000" />
+      <workItem from="1667678441256" duration="1808000" />
+      <workItem from="1668080823110" duration="407000" />
+      <workItem from="1668099294033" duration="2097000" />
+      <workItem from="1668282088858" duration="8016000" />
+      <workItem from="1668858485425" duration="14217000" />
+      <workItem from="1668875425625" duration="1379000" />
+      <workItem from="1669063185429" duration="216000" />
+      <workItem from="1669309274435" duration="4871000" />
+      <workItem from="1670524797080" duration="1377000" />
+      <workItem from="1670581220867" duration="4416000" />
+      <workItem from="1670586585390" duration="802000" />
+      <workItem from="1670670208246" duration="5356000" />
+      <workItem from="1670941196687" duration="17000" />
+      <workItem from="1671025077098" duration="7740000" />
+      <workItem from="1671121690158" duration="2249000" />
+      <workItem from="1672392811042" duration="3080000" />
+      <workItem from="1672772147675" duration="600000" />
+      <workItem from="1672863322642" duration="1918000" />
+      <workItem from="1673012653406" duration="17166000" />
+      <workItem from="1673087729176" duration="17712000" />
+      <workItem from="1673172467769" duration="14080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="103" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667647446300">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="577" y="103" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1667647446300" />
+    <state x="577" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1739.939@0.0.1739.939" timestamp="1665655695250" />
+    <state x="679" y="183" key="#com.intellij.ide.util.MemberChooser" timestamp="1673188908065">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="679" y="183" key="#com.intellij.ide.util.MemberChooser/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673188908065" />
+    <state x="679" y="183" key="#com.intellij.ide.util.MemberChooser/0.0.1739.939@0.0.1739.939" timestamp="1670587118806" />
+    <state x="567" y="254" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1666801119522">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="567" y="254" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1739.939@0.0.1739.939" timestamp="1666801119522" />
+    <state x="336" y="535" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1672394537141">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="336" y="535" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1672394537141" />
+    <state x="386" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1666801012789">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="386" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1739.939@0.0.1739.939" timestamp="1666801012789" />
+    <state x="716" y="228" key="FileChooserDialogImpl" timestamp="1666027577931">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="716" y="228" key="FileChooserDialogImpl/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1666027577931" />
+    <state x="1076" y="208" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1665654958998" />
+    <state width="1519" height="230" key="GridCell.Tab.0.bottom" timestamp="1673189067016">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1519" height="230" key="GridCell.Tab.0.bottom/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673189067016" />
+    <state width="1462" height="212" key="GridCell.Tab.0.bottom/0.0.1739.939/1920.0.1739.939@1920.0.1739.939" timestamp="1670672844289" />
+    <state width="1461" height="212" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1670587400129" />
+    <state width="1519" height="230" key="GridCell.Tab.0.center" timestamp="1673189067015">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1519" height="230" key="GridCell.Tab.0.center/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673189067015" />
+    <state width="1462" height="212" key="GridCell.Tab.0.center/0.0.1739.939/1920.0.1739.939@1920.0.1739.939" timestamp="1670672844289" />
+    <state width="1461" height="212" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1670587400129" />
+    <state width="1519" height="230" key="GridCell.Tab.0.left" timestamp="1673189067015">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1519" height="230" key="GridCell.Tab.0.left/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673189067015" />
+    <state width="1462" height="212" key="GridCell.Tab.0.left/0.0.1739.939/1920.0.1739.939@1920.0.1739.939" timestamp="1670672844288" />
+    <state width="1461" height="212" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1670587400129" />
+    <state width="1519" height="230" key="GridCell.Tab.0.right" timestamp="1673189067016">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1519" height="230" key="GridCell.Tab.0.right/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673189067016" />
+    <state width="1462" height="212" key="GridCell.Tab.0.right/0.0.1739.939/1920.0.1739.939@1920.0.1739.939" timestamp="1670672844289" />
+    <state width="1461" height="212" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1670587400129" />
+    <state width="1472" height="277" key="GridCell.Tab.1.bottom" timestamp="1673179639074">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1472" height="277" key="GridCell.Tab.1.bottom/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673179639074" />
+    <state width="1472" height="277" key="GridCell.Tab.1.center" timestamp="1673179639074">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1472" height="277" key="GridCell.Tab.1.center/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673179639074" />
+    <state width="1472" height="277" key="GridCell.Tab.1.left" timestamp="1673179639074">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1472" height="277" key="GridCell.Tab.1.left/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673179639074" />
+    <state width="1472" height="277" key="GridCell.Tab.1.right" timestamp="1673179639074">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1472" height="277" key="GridCell.Tab.1.right/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673179639074" />
+    <state x="416" y="200" key="SettingsEditor" timestamp="1665655757522">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="521" y="225" key="SettingsEditor/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1664701612745" />
+    <state x="416" y="200" key="SettingsEditor/0.0.1739.939@0.0.1739.939" timestamp="1665655757522" />
+    <state x="646" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1673172759044">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="646" y="321" key="com.intellij.ide.util.TipDialog/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673172759044" />
+    <state x="646" y="321" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1670941196219" />
+    <state x="529" y="209" width="614" height="536" key="find.popup" timestamp="1673110414855">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="529" y="209" width="614" height="536" key="find.popup/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673110414855" />
+    <state x="529" y="209" width="614" height="536" key="find.popup/0.0.1739.939@0.0.1739.939" timestamp="1669310268753" />
+    <state x="533" y="218" width="672" height="678" key="search.everywhere.popup" timestamp="1673180197761">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="533" y="218" width="672" height="678" key="search.everywhere.popup/0.0.1739.939/1920.0.1739.939@0.0.1739.939" timestamp="1673180197761" />
+    <state x="533" y="218" width="672" height="678" key="search.everywhere.popup/0.0.1739.939@0.0.1739.939" timestamp="1669312566343" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cz/cvut/fit/miadp/mvcgame/MvcGame.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
